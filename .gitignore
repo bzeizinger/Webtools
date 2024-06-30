@@ -3,3 +3,5 @@ style.css.map
 /tools/qrcodeGenerator/qrcodeGenerator.css.map
 /tools/qrcodeGenerator/qrcodeGenerator.sass
 .DS_Store
+/tools/qrcodeScanner/qrcodeScanner.sass
+/tools/qrcodeScanner/qrcodeScanner.css.map
