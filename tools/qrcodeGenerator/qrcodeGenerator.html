@@ -10,7 +10,10 @@
     <input type="text" id="qrcodeInput" placeholder="Text or URL">
     <div class="buttons">
         <button><a href="/index.html">Back</a></button>
-        <button class="mainButton">Generate</button>
+        <button class="mainButton" onclick="generateQrcode()">Generate</button>
+    </div>
+    <div id="qrcodeCanvas">
+        <img src="" class="qrcodeImage" id="qrcodeImage">
     </div>
 
     <script src="qrcodeGenerator.js"></script>

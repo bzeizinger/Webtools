@@ -70,4 +70,15 @@ button:hover {
 
 .buttons {
   display: flex;
+  margin-bottom: 25px;
+}
+
+.qrcodeImage {
+  display: none;
+}
+
+.qrcodeImageDisplay {
+  height: 290px;
+  width: 290px;
+  display: block;
 }/*# sourceMappingURL=qrcodeGenerator.css.map */
