@@ -14,4 +14,32 @@ a {
 a:hover {
   color: #4040ff;
   text-decoration: underline;
+}
+
+.header {
+  height: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.info {
+  width: 33%;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.title {
+  width: 33%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.placeholder {
+  width: 33%;
 }/*# sourceMappingURL=style.css.map */
