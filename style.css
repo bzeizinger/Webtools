@@ -24,6 +24,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  text-align: center;
 }
 
 .info {
@@ -31,6 +32,7 @@ a:hover {
   display: flex;
   flex-direction: column;
   justify-content: start;
+  text-align: center;
 }
 
 .title {
@@ -38,6 +40,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center;
 }
 
 .placeholder {
