@@ -80,6 +80,15 @@ a:hover {
   border: solid 1.8px #4040ff;
 }
 
+.disabled {
+  color: #727272;
+  border: solid 1.8px #727272;
+}
+.disabled:hover {
+  border: solid 1.8px #727272;
+  cursor: not-allowed;
+}
+
 .footer {
   height: 100px;
 }/*# sourceMappingURL=style.css.map */
